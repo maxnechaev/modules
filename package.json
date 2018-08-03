@@ -1,0 +1,19 @@
+{
+  "name": "newpreject",
+  "version": "0.0.1",
+  "description": "Just a test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "application"
+  ],
+  "author": "Max Nechaev",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "mocha": "^5.2.0"
+  }
+}
